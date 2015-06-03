@@ -1,0 +1,17 @@
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\bin\Debug\MOIF.Tri.Race.Form.exe.config
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\bin\Debug\MOIF.Tri.Race.Form.exe
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\bin\Debug\MOIF.Tri.Race.Form.pdb
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\bin\Debug\MOIF.Tri.Race.Form.xml
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\MOIF.Tri.Race.Form.vbprojResolveAssemblyReference.cache
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\MOIF.Tri.Race.Form.vbproj.GenerateResource.Cache
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\MOIF.Tri.Race.Form.exe
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\MOIF.Tri.Race.Form.xml
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\MOIF.Tri.Race.Form.pdb
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\WindowsApplication1.AboutBox1.resources
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\WindowsApplication1.Form1.resources
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\WindowsApplication1.Form2.resources
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\WindowsApplication1.Resources.resources
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\bin\Debug\SQLite.Interop.dll
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\bin\Debug\System.Data.SQLite.dll
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\WindowsApplication1.frmMerge.resources
+I:\MyData\Development\Visual Studio\VB.NET 2012\MOIF\MOIF.Tri.Race.Form\MOIF.Tri.Race.Form\obj\Debug\WindowsApplication1.frmLotto.resources
